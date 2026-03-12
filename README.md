@@ -1,9 +1,9 @@
 # Segunda lista de exercícios de python das aulas de algoritimos
-## Estes desafios consistem em exercícios de fixação dos aprendizados dados nas aulas de algoritimos, abordando o tema das Estruturas de Decisão em Python.
+ Estes desafios consistem em exercícios de fixação dos aprendizados dados nas aulas de algoritimos, abordando o tema das Estruturas de Decisão em Python.
 
 - **Introduzir** o **conceito** de estruturas de decisão.
--Ensinar como tomar decisões dentro de um programa utilizando as estruturas de decisão em Python. Uso de **if**, **if else**, **elif** e **if aninhados**.
--Praticar a **criação** de programas simples que utilizam **if-else** e **if-else aninhados**.
+- Ensinar como tomar decisões dentro de um programa utilizando as estruturas de decisão em Python. Uso de **if**, **if else**, **elif** e **if aninhados**.
+- Praticar a **criação** de programas simples que utilizam **if-else** e **if-else aninhados**.
 
 ## Os tópicos dos exercícios foram:
 
